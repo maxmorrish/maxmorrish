@@ -1,5 +1,9 @@
-Marketing operations and GTM engineer. I run a personal agent setup (Claude Code and Codex reviewing each other's work, local models, an approval queue) and publish the parts that hold up.
+Marketing operations and GTM engineer at Kinetech Cloud. I build the websites, CRM data, reporting and small tools that a go-to-market team runs on.
 
-What goes here: small tools and tests of whether AI agent tooling does what it claims. Each README says what the thing does, how to run it in one line, and where it fails.
+Some of what I've built on the side, each with screens and a walkthrough:
 
-[maxmorrish.com](https://maxmorrish.com)
+- [SellerShock](https://maxmorrish.com/work/sellershock/): cash-gap and fee calculators for Amazon sellers
+- [FeedPhantom](https://maxmorrish.com/work/feedphantom/): finds deleted Shopify products still listed in Google Merchant Center
+- [Markets research lab](https://maxmorrish.com/work/markets-lab/): five pre-registered backtests on public data, paper only
+
+More at [maxmorrish.com](https://maxmorrish.com).
